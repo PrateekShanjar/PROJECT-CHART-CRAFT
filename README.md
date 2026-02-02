@@ -99,4 +99,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Developed with ❤️ by [Ningaraddi Raddi](https://github.com/ningaraddi-raddi)
+Developed with ❤️ by (Prateek Shanjar Tiwar)
