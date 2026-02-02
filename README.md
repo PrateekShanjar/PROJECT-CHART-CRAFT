@@ -1,7 +1,7 @@
 
-# VisualAlgo
+# Chart Craft
 
-VisualAlgo is a full-stack web application designed to visually demonstrate the working of graph algorithms such as Depth-First Search (DFS), Breadth-First Search (BFS), and Dijkstra's Algorithm. This project provides an intuitive and interactive interface to help users understand graph traversal and pathfinding techniques in a dynamic and educational way.
+Chart Craft is a full-stack web application designed to visually demonstrate the working of graph algorithms such as Depth-First Search (DFS), Breadth-First Search (BFS), and Dijkstra's Algorithm. This project provides an intuitive and interactive interface to help users understand graph traversal and pathfinding techniques in a dynamic and educational way.
 
 ## 🚀 Features
 
